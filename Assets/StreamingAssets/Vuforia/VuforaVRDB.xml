@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="velazquez-infanta-margarita-noticias-totenart" size="100.000000 155.684448" />
+    <ImageTarget name="la-persistencia-de-la-memoria-decadencia" size="100.000000 77.873566" />
+    <ImageTarget name="3fa7a860450eb87119200bfe30ce9a1f" size="100.000000 101.769913" />
+    <ImageTarget name="tresbastos" size="30.000000 45.801525" />
+    <ImageTarget name="dosbastos" size="30.000000 45.801525" />
+    <ImageTarget name="asbastos" size="30.000000 45.714287" />
+  </Tracking>
+</QCARConfig>
